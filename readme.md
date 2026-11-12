@@ -20,7 +20,7 @@ Users Manager is a C-based command-line application designed to manage user reco
     - Download the source code to your local machine.
     ```bash
     git clone https://github.com/red1gr/users_manager.git
-    cd "c program"
+    cd "users_manager"
     ```
 2. **Compile the Source**
     - Use a C compiler such as GCC to compile all the project modules.
